@@ -1,4 +1,4 @@
 demo-git
 ========
 
-git (stage functionality) demo for eJP
+git development (stage functionality) demo for eJP
