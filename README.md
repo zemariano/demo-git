@@ -1,4 +1,4 @@
 demo-git
 ========
 
-git demo for eJP
+git some experiment demo for eJP
